@@ -1,0 +1,100 @@
+{
+  "brands": {
+    "Samsung": ["Samsung", "Galaxy", "Sam-sung"],
+    "Apple": ["Apple", "iPhone", "iPad", "Macbook"],
+    "Vivo": ["Vivo", "iQOO"],
+    "Oppo": ["Oppo", "OPPO"],
+    "Xiaomi": ["Xiaomi", "Mi", "Redmi"],
+    "UGREEN": ["UGREEN", "U-Green"],
+    "Baseus": ["Baseus", "BASE-US"],
+    "KZ": ["KZ", "Knowledge Zenith"],
+    "BOYA": ["BOYA", "Boya"],
+    "Mogami": ["Mogami"],
+    "Essager": ["Essager"],
+    "LIGE": ["LIGE"],
+    "Kospet": ["Kospet"],
+    "CHUWI": ["CHUWI", "Chuwi"],
+    "ACEMAGIC": ["ACEMAGIC", "Ace Magic"],
+    "Teclast": ["Teclast"],
+    "PRITOM": ["PRITOM"],
+    "Lenovo": ["Lenovo", "ThinkPad", "Xiaoxin"],
+    "MOFii": ["MOFii", "Mofi"],
+    "FanFun": ["FanFun", "Fan Fun"]
+  },
+  "categories": {
+    "Smartphone": ["Smartphone", "Cell Phone", "Mobile Phone", "Handset"],
+    "Laptop": ["Laptop", "Notebook", "Ultrabook", "Macbook"],
+    "Tablet": ["Tablet", "Pad", "iPad"],
+    "Smartwatch": ["Smartwatch", "Watch", "Wearable"],
+    "Audio": ["Earphones", "Headphones", "Earbuds", "Speakers", "Microphones", "Karaoke System"],
+    "Accessories": ["Case", "Cover", "Skin", "Protector", "Stand", "Holder", "Sleeve", "Sticker"],
+    "Power": ["Charger", "Cable", "Cord", "Power Bank", "UPS", "Adapter"],
+    "Components": ["Motherboard", "Mini PC", "POS System"]
+  },
+  "specs": {
+    "storage": {
+      "64GB": ["64GB", "64 GB", "64G"],
+      "128GB": ["128GB", "128 GB", "128G"],
+      "256GB": ["256GB", "256 GB", "256G"],
+      "512GB": ["512GB", "512 GB", "512G"],
+      "1TB": ["1TB", "1 TB", "1000GB"]
+    },
+    "ram": {
+      "4GB": ["4GB", "4 GB", "4G RAM"],
+      "6GB": ["6GB", "6 GB", "6G RAM"],
+      "8GB": ["8GB", "8 GB", "8G RAM"],
+      "12GB": ["12GB", "12 GB", "12G RAM"],
+      "16GB": ["16GB", "16 GB", "16G RAM"]
+    },
+    "battery": {
+      "3000mAh": ["3000mAh", "3000 mAh", "3Ah"],
+      "5000mAh": ["5000mAh", "5000 mAh", "5Ah"],
+      "8000mAh": ["8000mAh", "8000 mAh", "8Ah"],
+      "10000mAh": ["10000mAh", "10000 mAh", "10Ah"]
+    },
+    "display": {
+      "AMOLED": ["AMOLED", "Amoled"],
+      "IPS": ["IPS", "IPS LCD"],
+      "OLED": ["OLED"],
+      "LCD": ["LCD"],
+      "120Hz": ["120Hz", "120 Hz"],
+      "144Hz": ["144Hz", "144 Hz"],
+      "3K Display": ["3K Display", "3K"]
+    },
+    "connectivity": {
+      "4G": ["4G", "4 G", "LTE"],
+      "5G": ["5G", "5 G"],
+      "NFC": ["NFC", "Near Field Communication"],
+      "Bluetooth 5.0": ["Bluetooth 5.0", "BT 5.0"],
+      "Bluetooth 5.2": ["Bluetooth 5.2", "BT 5.2"],
+      "Bluetooth 5.3": ["Bluetooth 5.3", "BT 5.3"],
+      "WiFi6": ["WiFi6", "Wi-Fi 6", "802.11ax"]
+    },
+    "charging": {
+      "20W": ["20W", "20 W"],
+      "45W": ["45W", "45 W"],
+      "65W": ["65W", "65 W"],
+      "90W": ["90W", "90 W"],
+      "120W": ["120W", "120 W"],
+      "PD": ["PD", "Power Delivery"],
+      "SuperVOOC": ["SuperVOOC", "Super VOOC"],
+      "MagSafe": ["MagSafe", "Mag Safe"]
+    }
+  },
+  "attributes": {
+    "waterproof": ["waterproof", "IP68", "IPX7", "IPX8"],
+    "rugged": ["rugged", "military grade", "shockproof"],
+    "gaming": ["gaming", "gamer", "esports"],
+    "portable": ["portable", "compact", "mini"],
+    "ergonomic": ["ergonomic", "comfortable", "wrist-friendly"],
+    "lightweight": ["lightweight", "slim", "thin"],
+    "wireless": ["wireless", "cordless"],
+    "foldable": ["foldable", "flip", "fold"],
+    "magnetic": ["magnetic", "magnet"],
+    "smart": ["smart", "AI-enabled", "intelligent"],
+    "unlocked": ["unlocked", "sim-free", "carrier-free"],
+    "refurbished": ["refurbished", "renewed", "pre-owned"],
+    "durable": ["durable", "long-lasting", "sturdy"],
+    "minimalist": ["minimalist", "simple", "clean design"]
+  }
+}

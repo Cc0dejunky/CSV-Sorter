@@ -1,0 +1,653 @@
+{
+    "brands": {
+        "ACEMAGIC": [
+            "ACEMAGIC",
+            "Ace Magic",
+            "AceMagic"
+        ],
+        "Anker": [
+            "Anker",
+            "Soundcore"
+        ],
+        "Apple": [
+            "AirPods",
+            "Apple",
+            "Mac",
+            "Macbook",
+            "Pro",
+            "Watch",
+            "iPad",
+            "iPhone"
+        ],
+        "Attack Shark": [
+            "Attack Shark",
+            "Attack Shark Mouse"
+        ],
+        "BOYA": [
+            "BOYA",
+            "Boya"
+        ],
+        "Baseus": [
+            "BASE-US",
+            "Baseus",
+            "Baseus Cable",
+            "Baseus Charger",
+            "Baseus Hub"
+        ],
+        "Blitzwolf": [
+            "Blitzwolf",
+            "Blitzwolf Cable",
+            "Blitzwolf Charger"
+        ],
+        "CHUWI": [
+            "CHUWI",
+            "Chuwi"
+        ],
+        "Edifier": [
+            "Edifier",
+            "Edifier Speaker"
+        ],
+        "Essager": [
+            "Essager",
+            "Essager Cable",
+            "Essager Charger"
+        ],
+        "FanFun": [
+            "Fan Fun",
+            "FanFun"
+        ],
+        "Goojodoq": [
+            "Goojodoq",
+            "Stylus Pen"
+        ],
+        "Joyroom": [
+            "Joyroom",
+            "Joyroom Holder"
+        ],
+        "Kospet": [
+            "Kospet"
+        ],
+        "KZ": [
+            "KZ",
+            "KZ Earphone",
+            "Knowledge Zenith"
+        ],
+        "LIGE": [
+            "LIGE"
+        ],
+        "Lenovo": [
+            "IdeaPad",
+            "Legion",
+            "Lenovo",
+            "ThinkPad",
+            "Xiaoxin",
+            "Yoga"
+        ],
+        "MOFii": [
+            "MOFii",
+            "Mofi"
+        ],
+        "Mogami": [
+            "Mogami"
+        ],
+        "Oppo": [
+            "Find X",
+            "K-Series",
+            "OPPO",
+            "Oppo",
+            "Reno"
+        ],
+        "Orico": [
+            "Orico",
+            "Orico Case",
+            "Orico Hub"
+        ],
+        "PRITOM": [
+            "PRITOM"
+        ],
+        "QCY": [
+            "QCY",
+            "QCY Earbuds"
+        ],
+        "RUIZU": [
+            "RUIZU"
+        ],
+        "Realme": [
+            "GT",
+            "Narzo",
+            "Realme"
+        ],
+        "Redragon": [
+            "Redragon",
+            "Redragon Keyboard"
+        ],
+        "Samsung": [
+            "A-Series",
+            "F-Series",
+            "Galaxy",
+            "Note",
+            "S-Series",
+            "Sam-sung",
+            "Samsung",
+            "Z Flip",
+            "Z Fold"
+        ],
+        "SoundPEATS": [
+            "Sound PEATS",
+            "SoundPEATS"
+        ],
+        "Teclast": [
+            "Teclast"
+        ],
+        "Transpeed": [
+            "Transpeed",
+            "Transpeed Projector"
+        ],
+        "Tronsmart": [
+            "Tronsmart",
+            "Tronsmart Speaker"
+        ],
+        "UGREEN": [
+            "U-Green",
+            "UGREEN"
+        ],
+        "Ugreen": [
+            "Ugreen",
+            "Ugreen Cable",
+            "Ugreen Charger",
+            "Ugreen Hub"
+        ],
+        "Vention": [
+            "Vention"
+        ],
+        "Vivo": [
+            "IQOO",
+            "NEX",
+            "V-Series",
+            "Vivo",
+            "X-Series",
+            "Y-Series",
+            "iQOO"
+        ],
+        "Xiaomi": [
+            "Mi",
+            "Mijia",
+            "Poco",
+            "Redmi",
+            "Xiaomi"
+        ]
+    },
+    "categories": {
+        "Accessories": [
+            "Accessories",
+            "Case",
+            "Cover",
+            "Docking Station",
+            "Dongle",
+            "Grip",
+            "Holder",
+            "Hub",
+            "Keyboard",
+            "Mouse",
+            "Pen",
+            "Protector",
+            "Screen Filter",
+            "Skin",
+            "Sleeve",
+            "Stand",
+            "Sticker",
+            "Stylus",
+            "USB Hub"
+        ],
+        "Audio": [
+            "Audio",
+            "Earbuds",
+            "Earphones",
+            "Headphones",
+            "Headset",
+            "HiFi",
+            "Karaoke System",
+            "Microphones",
+            "Soundbar",
+            "Speakers",
+            "TWS",
+            "True Wireless Stereo"
+        ],
+        "Components": [
+            "Components",
+            "Mini PC",
+            "Motherboard",
+            "POS System"
+        ],
+        "Gaming": [
+            "Emulator",
+            "Gamepad",
+            "Gaming Console",
+            "Gaming Mouse"
+        ],
+        "Laptop": [
+            "2-in-1",
+            "Chromebook",
+            "Gaming Laptop",
+            "Laptop",
+            "Macbook",
+            "Mini PC",
+            "Notebook",
+            "Ultrabook"
+        ],
+        "Power": [
+            "Adapter",
+            "Cable",
+            "Car Charger",
+            "Charger",
+            "Charging Pad",
+            "Cord",
+            "Fast Charger",
+            "Power Bank",
+            "Solar Charger",
+            "UPS",
+            "Wall Plug"
+        ],
+        "Smart Home": [
+            "Air Purifiers",
+            "LED Light",
+            "LED Strip Lights",
+            "Smart Lock",
+            "Smart Plug",
+            "Smart Switch"
+        ],
+        "Smartphone": [
+            "Android Phone",
+            "Cell Phone",
+            "Feature Phone",
+            "Handset",
+            "Mobile Phone",
+            "Phablet",
+            "Smartphone"
+        ],
+        "Smartwatch": [
+            "Activity Watch",
+            "Fitness Tracker",
+            "Smart Band",
+            "Smartwatch",
+            "Watch",
+            "Wearable"
+        ],
+        "Storage": [
+            "Hard Drive",
+            "Memory Card",
+            "Portable SSD",
+            "SSD",
+            "USB Drive"
+        ],
+        "Tablet": [
+            "Drawing Tablet",
+            "E-reader",
+            "Pad",
+            "Tablet",
+            "iPad"
+        ],
+        "Visual": [
+            "4K Projector",
+            "Mini Projector",
+            "Monitor",
+            "Projector",
+            "Screen Magnifier"
+        ]
+    },
+    "attributes": {
+        "AUX": [
+            "3.5mm",
+            "AUX",
+            "audio jack",
+            "aux"
+        ],
+        "Coaxial": [
+            "Coaxial",
+            "rg6",
+            "tv cable"
+        ],
+        "Ethernet": [
+            "Ethernet",
+            "cat5",
+            "cat6",
+            "rj45"
+        ],
+        "FireWire": [
+            "FireWire",
+            "ieee 1394"
+        ],
+        "HDMI": [
+            "HDMI",
+            "hdmi",
+            "hdmi 1.4",
+            "hdmi 2.0"
+        ],
+        "Lightning": [
+            "Lightning",
+            "apple connector",
+            "iphone cable"
+        ],
+        "Micro-USB": [
+            "Micro-USB",
+            "micro usb"
+        ],
+        "Mini-USB": [
+            "Mini-USB",
+            "mini usb"
+        ],
+        "Power": [
+            "Power",
+            "ac",
+            "dc",
+            "extension",
+            "power cord"
+        ],
+        "RGB backlight": [
+            "RGB backlight",
+            "backlight",
+            "color glow",
+            "rgb",
+            "rgb lighting"
+        ],
+        "USB-A": [
+            "USB-A",
+            "type-a",
+            "usb type a"
+        ],
+        "USB-B": [
+            "USB-B",
+            "type-b",
+            "usb type b"
+        ],
+        "USB-C": [
+            "USB-C",
+            "type-c",
+            "usb type c",
+            "usbc"
+        ],
+        "VGA": [
+            "VGA",
+            "vga",
+            "vga connector"
+        ],
+        "XLR": [
+            "XLR",
+            "xlr",
+            "xlr female",
+            "xlr male"
+        ],
+        "durable": [
+            "durable",
+            "long-lasting",
+            "metal frame",
+            "sturdy"
+        ],
+        "ergonomic": [
+            "comfortable",
+            "contoured",
+            "ergonomic",
+            "hand-friendly",
+            "wrist-friendly"
+        ],
+        "fitness tracker": [
+            "activity tracker",
+            "fitness tracker",
+            "step counter"
+        ],
+        "foldable": [
+            "flip",
+            "fold",
+            "foldable",
+            "hinged"
+        ],
+        "gaming": [
+            "esports",
+            "gamer",
+            "gaming"
+        ],
+        "health monitoring": [
+            "blood oxygen",
+            "heart rate",
+            "sleep tracking"
+        ],
+        "lightweight": [
+            "lightweight",
+            "slim",
+            "thin"
+        ],
+        "magnetic": [
+            "magnet",
+            "magnetic"
+        ],
+        "minimalist": [
+            "clean design",
+            "minimalist",
+            "simple"
+        ],
+        "noise cancellation": [
+            "ANC",
+            "active noise canceling",
+            "noise cancellation"
+        ],
+        "portable": [
+            "compact",
+            "mini",
+            "portable",
+            "travel-friendly"
+        ],
+        "refurbished": [
+            "pre-owned",
+            "renewed",
+            "refurbished"
+        ],
+        "rugged": [
+            "military grade",
+            "rugged",
+            "shockproof"
+        ],
+        "security": [
+            "biometric",
+            "face ID",
+            "fingerprint",
+            "privacy"
+        ],
+        "smart": [
+            "AI-enabled",
+            "AI-powered",
+            "intelligent",
+            "smart"
+        ],
+        "unlocked": [
+            "carrier-free",
+            "sim-free",
+            "unlocked"
+        ],
+        "waterproof": [
+            "IP68",
+            "IPX7",
+            "IPX8",
+            "splashproof",
+            "waterproof"
+        ],
+        "wireless": [
+            "BT",
+            "bluetooth",
+            "cordless",
+            "wi-fi",
+            "wireless"
+        ]
+    },
+    "specs": {
+        "battery": {
+            "10000mAh": [
+                "10000 mAh",
+                "10000mAh",
+                "10Ah"
+            ],
+            "3000mAh": [
+                "3000 mAh",
+                "3000mAh",
+                "3Ah"
+            ],
+            "5000mAh": [
+                "5000 mAh",
+                "5000mAh",
+                "5Ah"
+            ],
+            "8000mAh": [
+                "8000 mAh",
+                "8000mAh",
+                "8Ah"
+            ]
+        },
+        "charging": {
+            "120W": [
+                "120 W",
+                "120W"
+            ],
+            "20W": [
+                "20 W",
+                "20W"
+            ],
+            "45W": [
+                "45 W",
+                "45W"
+            ],
+            "65W": [
+                "65 W",
+                "65W"
+            ],
+            "90W": [
+                "90 W",
+                "90W"
+            ],
+            "MagSafe": [
+                "Mag Safe",
+                "MagSafe"
+            ],
+            "PD": [
+                "PD",
+                "Power Delivery"
+            ],
+            "SuperVOOC": [
+                "Super VOOC",
+                "SuperVOOC"
+            ]
+        },
+        "connectivity": {
+            "4G": [
+                "4 G",
+                "4G",
+                "LTE"
+            ],
+            "5G": [
+                "5 G",
+                "5G"
+            ],
+            "Bluetooth 5.0": [
+                "BT 5.0",
+                "Bluetooth 5.0"
+            ],
+            "Bluetooth 5.2": [
+                "BT 5.2",
+                "Bluetooth 5.2"
+            ],
+            "Bluetooth 5.3": [
+                "BT 5.3",
+                "Bluetooth 5.3"
+            ],
+            "NFC": [
+                "NFC",
+                "Near Field Communication"
+            ],
+            "WiFi6": [
+                "802.11ax",
+                "Wi-Fi 6",
+                "WiFi6"
+            ]
+        },
+        "display": {
+            "120Hz": [
+                "120 Hz",
+                "120Hz"
+            ],
+            "144Hz": [
+                "144 Hz",
+                "144Hz"
+            ],
+            "3K Display": [
+                "3K",
+                "3K Display"
+            ],
+            "AMOLED": [
+                "AMOLED",
+                "Amoled"
+            ],
+            "IPS": [
+                "IPS",
+                "IPS LCD"
+            ],
+            "LCD": [
+                "LCD"
+            ],
+            "OLED": [
+                "OLED"
+            ]
+        },
+        "ram": {
+            "12GB": [
+                "12 GB",
+                "12G RAM",
+                "12GB"
+            ],
+            "16GB": [
+                "16 GB",
+                "16G RAM",
+                "16GB"
+            ],
+            "4GB": [
+                "4 GB",
+                "4G RAM",
+                "4GB"
+            ],
+            "6GB": [
+                "6 GB",
+                "6G RAM",
+                "6GB"
+            ],
+            "8GB": [
+                "8 GB",
+                "8G RAM",
+                "8GB"
+            ]
+        },
+        "storage": {
+            "128GB": [
+                "128 GB",
+                "128G",
+                "128GB"
+            ],
+            "1TB": [
+                "1 TB",
+                "1000GB",
+                "1TB"
+            ],
+            "256GB": [
+                "256 GB",
+                "256G",
+                "256GB"
+            ],
+            "512GB": [
+                "512 GB",
+                "512G",
+                "512GB"
+            ],
+            "64GB": [
+                "64 GB",
+                "64G",
+                "64GB"
+            ]
+        }
+    }
+}
