@@ -1,0 +1,19 @@
+google-generativeai
+psycopg2-binary
+requests
+scikit-learn
+joblib
+pytest
+pytest-mock
+fastapi
+uvicorn
+psycopg2-binary
+rich
+requests
+joblib
+pandas
+numpy
+tensorflow
+sentence-transformers
+torch
+pip install -U 
